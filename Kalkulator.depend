@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1657967859 source:c:\users\waget\documents\gówno z cpp\z chlebkiem\biblioteka\f\kalkulator\main.cpp
+	<iostream>
+	"Calc.h"
+	<locale.h>
+
+1657967578 c:\users\waget\documents\gówno z cpp\z chlebkiem\biblioteka\f\kalkulator\include\calc.h
+	<iostream>
+
+1657967571 source:c:\users\waget\documents\gówno z cpp\z chlebkiem\biblioteka\f\kalkulator\src\calc.cpp
+	"Calc.h"
+	<iostream>
+
+1657968183 source:c:\users\waget\documents\projekty_programowanie\kalkulator\main.cpp
+	<iostream>
+	"Calc.h"
+	<locale.h>
+
+1657967578 c:\users\waget\documents\projekty_programowanie\kalkulator\include\calc.h
+	<iostream>
+
+1657983025 source:c:\users\waget\documents\projekty_programowanie\kalkulator\src\calc.cpp
+	"Calc.h"
+	<iostream>
+
